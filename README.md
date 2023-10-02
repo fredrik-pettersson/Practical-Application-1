@@ -2,7 +2,7 @@
 Will customers accept coupons sent to their smartphones?
 
 ## Problem Statement: Takeaway Coupons
-The following analysis focuses on visualizing and identifying differences between people who accepted takeaway coupons and those who rejected the coupons based on monthly take out rates, coupon expiration time, age, occupation, destination, type of passenger, income, education, time of day, and gender.  Please also see the Jupytur notebook for more details including the actual Python code. 
+The following analysis focuses on visualizing and identifying differences between people who accepted takeaway coupons sent to their smartphones and those who rejected the coupons based on monthly takeout rates, coupon expiration time, age, occupation, destination, type of passenger, income, education, time of day, and gender.  Please also see the Jupyter notebook for more details including the actual Python code. 
 
 ## Background: Will a Customer Accept the Coupon?
 Imagine driving through town and a coupon is delivered to your smartphone for a restaurant near where you are driving. Would you accept that coupon and take a short detour to the restaurant? Would you accept the coupon but use it on a subsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaurant? What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? What about if it was just you and your partner in the car? Would weather impact the rate of acceptance? What about the time of day?
