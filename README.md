@@ -19,6 +19,7 @@ Therefore, a more restrictive strategy is needed. For example, you could focus o
 
 ## Visualizations, observations, and interpretations. Differences between those who accepted and rejected their coupons
 
+![CarryAway rate](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/180ac9ce-fc44-4c4c-8624-44f00fa5a8e9)
 
 People who take out food between 1 to 8 times a month drive more than 70% of all accepted carry away coupons. On the other hand, people who never take out food accept very few coupons in absolute numbers. This is similar to the bar coupons in the first section; those who attend bars frequently are more likely to accept bar coupons while those who never attend bars are less likely to accept bar coupons.   
 
