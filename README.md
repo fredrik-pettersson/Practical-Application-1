@@ -19,58 +19,53 @@ Therefore, a more restrictive strategy is needed. For example, you could focus o
 
 ## Visualizations, observations, and interpretations. Differences between those who accepted and rejected their coupons
 
+### Monthly Takeout Rates
 ![CarryAway rate](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/180ac9ce-fc44-4c4c-8624-44f00fa5a8e9)
-
 People who take out food between 1 to 8 times a month drive more than 70% of all accepted carry away coupons. On the other hand, people who never take out food accept very few coupons in absolute numbers. This is similar to the bar coupons in the first section; those who attend bars frequently are more likely to accept bar coupons while those who never attend bars are less likely to accept bar coupons.   
 
 
+### Expiration Time
 ![Expiration](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/776da186-7f89-4a6b-a996-1873f11f3e3f)
-
 There is a clear tendency to accept coupons with a 1-day expiration time over those with a 2-hour expiration time, while there is no difference among those who rejected the coupons (in blue). Offering 1-day expiration coupons gives customers more flexibility and time to plan their purchases which seem to increase coupon acceptance. 
 
 
+### Age
 ![Age](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/9dbb2648-4a80-4f8b-97fb-228a35c6fb17)
-
 People in their twenties accept about 40% of all coupons and is thereby the age group that accepts most coupons. Within that group, those aged 21-26 years tend to have a somewhat higher acceptance rate and a lower rejection rate than those aged 26-31 years. A potential explanation is that the twenties age group may be more outgoing and have less money to spend and are therefore more likely to accept coupons. People under 21 years old tend to accept the least number of coupons, probably because of limited spending in general. 
 
 
+### Occupation
 ![Occupation](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/deb8457e-7b32-4dd4-8af9-ae530b402528)
-
 The unemployed and students are the two occupational groups that accept the most coupons (about a quarter of all coupons) with the unemployed having somewhat higher acceptance rates and lower rejection rates than students. Retired people tend to accept the least number of coupons. Also, retirees and people in Arts Design Entertainment Sports & Media tend to have higher rejection rates and lower acceptance rates than people in Business & Financial. 
 
 
 ![Destination](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/af94a3eb-d9e4-473d-9739-360cf4672834)
-
 People who take out food and go to a non-urgent place accept more than 40% of all coupons. Those who go to work tend to have the lowest acceptance rates and highest rejection rates of all segments. The reason for this might be that those going to a non-urgent place have more flexibility and time, while those at work are more constrained and have limited time. 
 
 
 ![Passenger](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/96da835a-5509-4f23-acbd-8b7dff57ae3e)
-
 Drivers who were alone accepted close to 60% of all coupons. Drivers with kids or partners accepted the least number of coupons. Drivers who are alone might have more freedom to select exactly the coupon they like without having to compromise with anyone else, and this might contribute to more accepted coupons.  
 
 
 ![Income](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/975a9999-0ba3-4e4c-843e-ff5e849cc0ff)
-
 More than 30% of coupons are accepted by people making between $12.5k and $37.5k, where the segment making $25k-$37.5k tends to have higher acceptance rates and lower rejection rates compared to those making $12.5k=$25k. These income segments are at the lower end and people in these segments might be more likely to accept coupons due to being more price-sensitive in general. The highest coupon rejection rate is found in the $100k or more segment, which might reflect a lower level of price-sensitivity for people making more than $100k per year.  
 
 
 ![Education](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/b3cee409-e98a-42be-9501-7951bffa9089)
-
 Those with some college – no degree or a bachelor’s degree accepted close to 70% of all coupons.  Those with some college – no degree also have a higher acceptance rate and a lower rejection rate compared to those with a bachelor's degree.  One possible explanation could be that those with some college – no degree might earn somewhat less than those with a bachelor's degree and are therefore more price sensitive and more open to accept coupons. 
 
 
 ![Time of Day](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/2baf72ed-3230-4588-8382-e8d6ff6fa17d)
-
 The time period with the largest difference between accepted and rejected coupons is 6 pm. People taking out food at 6 pm tend to have higher acceptance rates than those taking out food at 10 am or 10 pm, probably because 6 pm is a common time to have dinner. 
 
 
 ![Gender](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/2dbd25f5-ad6c-485b-ad76-f2a2c84894c3)
-
 Females and males accept about the same number of coupons, but females tend to reject coupons (in blue) at a somewhat higher rate than males.
 
 
 ## Analysis on acceptance rates 
 The following table summarizes the coupon acceptance rates for different combinations of customer attributes (see Python code for additional details):
+
 ![Table](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/80e52ce5-4d9f-4662-8c0e-427a21cfbd09)
 
 
