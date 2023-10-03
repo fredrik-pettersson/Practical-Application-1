@@ -16,7 +16,7 @@ Providing takeaway coupons with 1-day expiration times to customers who regularl
 
 However, simply giving coupons to customers who already take out your food and are used to paying the full price could deteriorate your profit margin by providing unnecessary discounts.
 
-Therefore, a more restrictive strategy is needed. For example, you could focus on addressing and growing new customer segments that currently do not buy much of your products, such as targeting your coupons to people who never, or rarely take out foods, or offering lunch coupons to those who usually take out dinner meals. Also, you could offer coupons that meet the preferences of both drivers and their passengers to grow your business beyond customers driving alone, or target employees who need lunch or dinner at work rather than going after only the majority of customers who go to non-urgent places.
+Therefore, a more restrictive strategy is needed. For example, you could focus on addressing and growing new customer segments that currently do not buy much of your products, such as targeting your coupons to people who never, or rarely take out foods, or offering lunch coupons to those who usually take out dinner meals. Also, you could offer coupons that meet the preferences of both drivers and their passengers to grow your business beyond customers driving alone, or target employees who need lunch or dinner at work rather than going after only the majority of customers who go to non-urgent places. 
 
 ## Visualizations, observations, and interpretations. Differences between those who accepted and rejected their coupons
 
