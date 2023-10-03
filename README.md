@@ -30,9 +30,11 @@ Therefore, a more restrictive and targeted strategy is needed. For example, you 
 The less often people go to bars, the more likeley they are to reject their bar coupons. Conversely, the more often they go to bars, the likelier they are to accept their coupons. 
 
 
+
 ![High bar attendance income](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/31a3b954-1c23-4d80-8ff3-c84c6a87492e)
 
 The acceptance rates are very high for people who attend bars more than three times a month, especially in the $37.5k to $50k income group. While people in this group seem to make enough money to frequently attend bars, they are still price-sensitive and value the coupon discount. Interestingly, coupon acceptance is also very high in the $100k+ income group, which would be something to investigate as a next step.     
+
 
 
 
@@ -109,6 +111,7 @@ Females and males accept about the same number of coupons, but females tend to r
 
 #### Analysis on acceptance rates 
 The following table summarizes the takeaway coupon acceptance rates for different combinations of customer attributes (see Python code for additional details):
+
 ![Table](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/80e52ce5-4d9f-4662-8c0e-427a21cfbd09)
 
 
