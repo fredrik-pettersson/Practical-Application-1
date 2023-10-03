@@ -13,7 +13,12 @@ This data comes to us from the UCI Machine Learning repository and was collected
 
 ## Summary: Key Findings and Recommendations for Next Steps
 ### Bar Coupon Acceptance
-The bar coupon acceptance rate increases strongly with high bar attendance; drivers who go to the bar 4-8 times or more per month have a very high acceptance rate of 77%. Also, drivers who go to the bar at least once a month generally have high acceptance rates of 70% or more, provided that they are less than 30 years old, or have passengers who are not kids. Drivers who often attend bars seem rather price-sensitive since they make sure to use their coupons. Next step should be to investigate what factors could encourage people who never, or rarely, go to the bar, by analyzing and better understanding the people in these categories who did accept their bar coupons. 
+The bar coupon acceptance rate increases strongly with high bar attendance; drivers who go to the bar 4-8 times or more per month have a very high acceptance rate of 77%. Also, drivers who go to the bar at least once a month generally have high acceptance rates of 70% or more, provided that they are less than 30 years old, or have passengers who are not kids. Drivers who often attend bars seem rather price-sensitive since they make sure to use their coupons. 
+
+Next step should be to investigate what factors could encourage people who never, or rarely, go to the bar, by analyzing the people in these categories who did accept their bar coupons. For example, the graphs below suggest that among those who never or rarely attend bars, there are sub-segments such as the $100k+ income group that show relatively high coupon acceptance, and which could be targeted e.g. during sunny weather to maximize bar coupon acceptance rates and grow new customer segments:
+![Bar_lowest](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/d9c854ad-3a6a-45ab-9be6-c8ee04603880)
+
+
 
 ### Takeaway Food Coupon Acceptance
 Very high coupon acceptance rates of around 80% to 90% were found for takeaway coupons with 1-day expiration times when delivered to customers who regularly take out food 1-8 times a month, are in their twenties, go to non-urgent places, are alone, either unemployed or students, and in early evenings around 6 pm. Targeting customers who meet a combination of the above attributes can even reach a coupon acceptance rate of 100% in certain conditions.
