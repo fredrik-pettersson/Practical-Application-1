@@ -20,7 +20,7 @@ Very high coupon acceptance rates of around 80% to 90% were found for takeaway c
 
 However, simply giving coupons to customers who already take out your food products and are happily paying the full price could deteriorate your profit margin by providing discounts to customers who would buy your products anyway.
 
-Therefore, a more restrictive and targeted strategy is needed. For example, you could focus on addressing and growing new customer segments that currently do not buy much of your products, such as targeting your coupons to people who never, or rarely take out foods, or offering lunch coupons to those who usually take out dinner meals. Also, you could offer coupons that meet the preferences of both drivers and their passengers to grow your business beyond customers driving alone, or target employees who need lunch or dinner at work rather than going after the majority of customers who go to non-urgent places. 
+Therefore, a more restrictive and targeted strategy is needed. For example, you could focus on addressing and growing new customer segments that currently buy little of your products, such as targeting your coupons to people who never, or rarely take out foods, or offering lunch coupons to those who usually take out dinner meals. Also, you could offer coupons that meet the preferences of both drivers and their passengers to grow your business beyond customers driving alone, or target employees who need lunch or dinner at work rather than going after the majority of customers who go to non-urgent places. 
 
 ## Visualizations, observations, and interpretations. Differences between those who accepted and rejected their coupons
 ### Bar Coupons
