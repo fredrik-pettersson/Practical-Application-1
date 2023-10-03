@@ -22,6 +22,7 @@ Next step should be to investigate what factors could encourage people who never
 
 
 
+
 ### Takeaway Food Coupon Acceptance
 Very high coupon acceptance rates of around 80% to 90% were found for takeaway coupons with 1-day expiration times when delivered to customers who regularly take out food 1-8 times a month, are in their twenties, go to non-urgent places, are alone, either unemployed or students, and in early evenings around 6 pm. Targeting customers who meet a combination of the above attributes can even reach a coupon acceptance rate of 100% in certain conditions.
 
