@@ -38,6 +38,7 @@ The acceptance rates are very high for people who attend bars more than three ti
 
 
 
+
 ### Takeout Food Coupons
 #### Monthly Takeout Rates
 ![CarryAway rate](https://github.com/fredrik-pettersson/Practical-Application-1/assets/146313002/180ac9ce-fc44-4c4c-8624-44f00fa5a8e9)
